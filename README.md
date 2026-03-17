@@ -11,6 +11,7 @@ The main goal of this project is to use CFD  to simulate and analyze blood flow
 - Import patient-specific aneurysm geometry into Star CCM+.
 - Create a computational mesh to achieve adequate flow resolution.
 - Simulate steady-state laminar flow conditions for 2 velocity configurations (0.4 and 0.8 m/s), which can be adjusted as necessary.
+- Conducted grid independent studies.
 - Post processing.
 
 ## Key Results
