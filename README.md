@@ -1,5 +1,4 @@
-
-##Overview of CFD Simulation of Blood Flow in a Patient-Specific Aneurysm
+## Overview of CFD Simulation of Blood Flow in a Patient-Specific Aneurysm
 
 The main goal of this project is to use CFD  to simulate and analyze blood flow in a patient-specific aneurysm geometry. The goal was to assess possible rupture risks by evaluating hemodynamic parameters like wall shear stress.
 
